@@ -5,7 +5,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	string shape;
-	int size,size2,size3,h;
+	int size,size2,h;
 	double area;
 	cout<<"what is your shape?\t";
 	cout<<"(triangle,square,rectangle)\n";
